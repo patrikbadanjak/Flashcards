@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "921985812696",
+    "project_id": "flashcards-a4d6f",
+    "storage_bucket": "flashcards-a4d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921985812696:android:97e07b700e147aa1ba2fad",
+        "android_client_info": {
+          "package_name": "hr.algebra.pbadanjak.flashcards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921985812696-80q271tguml1m9nb5vmmb33f9vvmb7br.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.algebra.pbadanjak.flashcards",
+            "certificate_hash": "adcb5d9f8b0063d2a194bea31d620a1a69238911"
+          }
+        },
+        {
+          "client_id": "921985812696-8ogjavcmqhr1rm3hcihjpemireqpvs3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArWVl16I7e6nBDwmZfnzTUjaMonA0663M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921985812696-8ogjavcmqhr1rm3hcihjpemireqpvs3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
