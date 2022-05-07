@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/my_decks_fragment">
+
+    <fragment
+        android:id="@+id/my_decks_fragment"
+        android:name="hr.algebra.pbadanjak.flashcards.fragments.mainactivity.MyDecksFragment"
+        android:label="@string/my_decks"
+        tools:layout="@layout/fragment_my_decks" />
+
+    <fragment
+        android:id="@+id/browse_decks_fragment"
+        android:name="hr.algebra.pbadanjak.flashcards.fragments.mainactivity.BrowseFragment"
+        android:label="@string/browse"
+        tools:layout="@layout/fragment_browse" />
+
+    <fragment
+        android:id="@+id/profile_fragment"
+        android:name="hr.algebra.pbadanjak.flashcards.fragments.mainactivity.ProfileFragment"
+        android:label="@string/profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/settings_fragment"
+        android:name="hr.algebra.pbadanjak.flashcards.fragments.mainactivity.SettingsFragment"
+        android:label="@string/settings"
+        tools:layout="@layout/fragment_settings" />
+</navigation>

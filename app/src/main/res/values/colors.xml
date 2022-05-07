@@ -12,4 +12,6 @@
     <color name="secondaryTextColor">#ffffff</color>
 
     <color name="loginPageBackgroundColor">#FFFFFF</color>
+
+    <color name="cardBackgroundColor">#F4F4F4</color>
 </resources>
